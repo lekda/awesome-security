@@ -135,6 +135,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### VPN
 
 - [OpenVPN](https://openvpn.net/) - OpenVPN is an open source software application that implements virtual private network (VPN) techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It uses a custom security protocol that utilizes SSL/TLS for key exchange.
+- [Wireguard](https://www.wireguard.com) - WireGuard is an extremely simple yet fast and modern cross platform VPN that utilizes state-of-the-art cryptography. It intends to be considerably more performant than OpenVPN. WireGuard is designed as a general purpose VPN for running on embedded interfaces and super computers alike, fit for many different circumstances. 
 
 ### Fast Packet Processing
 
